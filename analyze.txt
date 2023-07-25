@@ -1,4 +1,4 @@
 analyze first
 analyze second
 feat1: analyze 3
-feat2: add login
+feat2: edit login
