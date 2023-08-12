@@ -1,1 +1,2 @@
-add feature one
+add feature first
+add feature second
